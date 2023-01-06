@@ -82,6 +82,7 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - [Flavours of State Machine Replication - Ittai Abraham](https://decentralizedthoughts.github.io/2019-10-25-flavours-of-state-machine-replication/)
 - [Consensus for State Machine Replication - Kartik Nayak, Ittai Abraham](https://decentralizedthoughts.github.io/2019-10-15-consensus-for-state-machine-replication/)
 - [From Single-Shot Agreement to State Machine Replication](https://decentralizedthoughts.github.io/2022-11-19-from-single-shot-to-smr/)
+- [tokenomics](https://tokenengineering.net/course/tefundamentals-module1/)
 
 ## Videos
 - [E48: The role of decentralization, China/US break down & more with Bestie Guestie Balaji Srinivasan](https://youtu.be/B2iNXMiGEms) 
